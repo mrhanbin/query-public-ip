@@ -1,2 +1,3 @@
-# query-public-ip
-query-public-ip
+python动态获取windows公网ip，然后使用server 酱接口推送新的公网ip
+
+自行在计划任务中配置执行
